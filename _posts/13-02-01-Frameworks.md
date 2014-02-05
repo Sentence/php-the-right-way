@@ -12,12 +12,12 @@ You do not need to use a framework for every project. Sometimes plain PHP is the
 * Full-Stack Frameworks
 * Component Frameworks
 
-Micro-frameworks are essentially a  wrapper to route a HTTP request to a callback, controller, method, etc as quickly as possible, and sometimes come with a few extra libraries to assist development such as basic database wrappers and the like. They are prominently used 
+Micro-frameworks are essentially a  wrapper to route a HTTP request to a callback, controller, method, etc as quickly as possible, and sometimes come with a few extra libraries to assist development such as basic database wrappers and the like. They are prominently used
 to build remote HTTP services.
 
-Many frameworks add a considerable number of features on top of what is available in a micro-framework and these are known Full-Stack 
+Many frameworks add a considerable number of features on top of what is available in a micro-framework and these are known Full-Stack
 Frameworks. These often come bundled with ORMs, Authentication packages, etc.
 
 Component-based frameworks are collections of specialized and single-purpose libraries. Disparate component-based frameworks can be used together to make a micro- or full-stack framework.
 
-* [Popular PHP Frameworks](https://github.com/codeguy/php-the-right-way/wiki/Frameworks)
+* [Popular PHP Frameworks](https://github.com/sentence/php-the-right-way/wiki/Frameworks)

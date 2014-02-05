@@ -5,8 +5,8 @@ isChild: true
 ## Programming Paradigms {#programming_paradigms_title}
 
 PHP is a flexible, dynamic language that supports a variety of programming techniques. It has evolved dramatically over
-the years, notably adding a solid object-oriented model in PHP 5.0 (2004), anonymous functions and namespaces in PHP 5.3 
-(2009), and traits in PHP 5.4 (2012). 
+the years, notably adding a solid object-oriented model in PHP 5.0 (2004), anonymous functions and namespaces in PHP 5.3
+(2009), and traits in PHP 5.4 (2012).
 
 ### Object-oriented Programming
 
@@ -30,7 +30,7 @@ New anonymous functions (with support for closures) are present since PHP 5.3 (2
 PHP 5.4 added the ability to bind closures to an object's scope and also improved support for callables such that they
 can be used interchangeably with anonymous functions in almost all cases.
 
-* Continue reading on [Functional Programming in PHP](/pages/Functional-Programming.html)
+* Continue reading on [Functional Programming in PHP](pages/Functional-Programming.html)
 * [Read about Anonymous Functions][anonymous-functions]
 * [Read about the Closure class][closure-class]
 * [More details in the Closures RFC][closures-rfc]
