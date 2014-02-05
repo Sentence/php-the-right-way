@@ -34,6 +34,7 @@ _PHP: The Right Way_ is (or soon will be) translated into many different languag
 * [Bulgarian](http://bg.phptherightway.com/)
 * [German](http://rwetzlmayr.github.io/php-the-right-way/)
 * [Turkish](http://hkulekci.github.io/php-the-right-way/)
+* [Hungarian](http://sentence.github.io/php-the-right-way/)
 
 ## How to Contribute
 
@@ -47,4 +48,4 @@ know where to find good information!
 [See Banner Images][2]
 
 [1]: https://github.com/codeguy/php-the-right-way/tree/gh-pages
-[2]: /banners.html
+[2]: /php-the-right-way/banners.html
