@@ -1,2 +1,2 @@
-# Getting Started {#getting_started_title}
+# Első lépések {#getting_started_title}
 
